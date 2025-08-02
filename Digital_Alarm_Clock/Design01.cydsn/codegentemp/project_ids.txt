@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive\Documents\PSoC Creator\Digital_Alarm_Clock\Design01.cydsn\Design01.cyprj|0d714875-9653-4fa6-83ac-f346ab3427e9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|686d2550-398b-433a-a87b-a158ed2696d3
+C:\Users\Admin\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|818bac4d-32de-454d-8f12-feac12fb6ad3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|8f205c43-86a5-4892-af01-e5c106721f06
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4560aeee-7473-45da-a025-be05edb85eff
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|782bbd50-26f5-46c9-9c49-ea8a3241adae
